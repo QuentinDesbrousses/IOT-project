@@ -1,4 +1,3 @@
-Votre espace de stockage est plein. … Vous ne pouvez plus importer de nouveaux fichiers dans Drive, et risquez de ne plus pouvoir envoyer ni recevoir d'e-mails via Gmail.En savoir plus
 # coding: utf-8
 
 
